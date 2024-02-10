@@ -1,4 +1,4 @@
-### Olá! Me chamo Matheus Silva, estou estudando programação Web, e me encontro numa constante evolução..  ✋
+### Olá! Me chamo Matheus Silva, ✋!! sou programador Front End, atualmente estou aprendendo e criando projetos com HTML, CSS, iniciando o estudo com JavaScrip e React.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhebliing/)
